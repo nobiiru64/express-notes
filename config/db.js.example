@@ -1,0 +1,3 @@
+module.exports = {
+    url : "mongodb+srv://<username>:<passowrd>@cluster0-4anvy.mongodb.net/test?retryWrites=true"
+};
